@@ -4,6 +4,6 @@ import (
         "fmt"
 )
 
-func importedFunction() {
-        fmt.Println("importedFunction")
+func ImportedFunction() {
+        fmt.Println("ImportedFunction")
 }
